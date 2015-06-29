@@ -23,8 +23,8 @@
         ]
     },
     "packageDependencies": {
-        "editor": "CodeboxIDE/package-editor",
-        "project": "CodeboxIDE/package-project",
-        "statusbar": "CodeboxIDE/package-statusbar"
+        "editor": "code-box/package-editor",
+        "project": "code-box/package-project",
+        "statusbar": "code-box/package-statusbar"
     }
 }
