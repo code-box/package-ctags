@@ -24,7 +24,6 @@
     },
     "packageDependencies": {
         "editor": "code-box/package-editor",
-        "project": "code-box/package-project",
         "statusbar": "code-box/package-statusbar"
     }
 }
